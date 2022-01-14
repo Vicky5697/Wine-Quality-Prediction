@@ -1,0 +1,4 @@
+Conclusion - 
+Performed using various algorithms such as Logistic Algorithm with accuracy of 68%, Decision Tree with95%. 
+But Random Forest Algorithm performed great on the data by giving the accuracy of 97%. 
+Found out that Good Quality of Wine contains high levels of alcohol on average.
